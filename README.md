@@ -1,2 +1,1 @@
-# carita-game-v2
-https://youtu.be/F9sAMoWKybE
+# C18_LP_AA1
